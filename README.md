@@ -44,3 +44,6 @@ house_price_prediction.ipynb
 3. Model Training (Ridge, Lasso, XGBoost)  
 4. Hyperparameter Tuning  
 5. Deployment using Streamlit
+
+## Live Demo
+(https://housepriceprediction0217.streamlit.app/)
