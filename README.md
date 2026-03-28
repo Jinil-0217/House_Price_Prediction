@@ -33,3 +33,14 @@ streamlit run app.py
 - Scikit-learn
 - XGBoost
 - Streamlit
+
+## Notebook
+Full analysis and model building available in:
+house_price_prediction.ipynb
+
+## Workflow
+1. Data Cleaning  
+2. Feature Engineering  
+3. Model Training (Ridge, Lasso, XGBoost)  
+4. Hyperparameter Tuning  
+5. Deployment using Streamlit
